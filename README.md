@@ -30,7 +30,7 @@ In this project, we formally present the task of Open-domain Visual Entity recog
 
 ## OVEN Annotation
 
-The annotations are released as jsaonline file for each set and data split as discussed in the paper. 
+The annotations are released as jsonline file for each set and data split as discussed in the paper. 
 
 Below is an example of the format for a training data:  
 
